@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Tags on damianjude</title>
+    <link>https://damianjude.github.io/damianjude/tags/</link>
+    <description>Recent content in Tags on damianjude</description>
+    <generator>Hugo -- 0.154.2</generator>
+    <language>en-uk</language>
+    <lastBuildDate>Mon, 12 Jan 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://damianjude.github.io/damianjude/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Embedded-Systems</title>
+      <link>https://damianjude.github.io/damianjude/tags/embedded-systems/</link>
+      <pubDate>Mon, 12 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://damianjude.github.io/damianjude/tags/embedded-systems/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Openwrt</title>
+      <link>https://damianjude.github.io/damianjude/tags/openwrt/</link>
+      <pubDate>Mon, 12 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://damianjude.github.io/damianjude/tags/openwrt/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Reverse-Engineering</title>
+      <link>https://damianjude.github.io/damianjude/tags/reverse-engineering/</link>
+      <pubDate>Mon, 12 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://damianjude.github.io/damianjude/tags/reverse-engineering/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Router</title>
+      <link>https://damianjude.github.io/damianjude/tags/router/</link>
+      <pubDate>Mon, 12 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://damianjude.github.io/damianjude/tags/router/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://damianjude.github.io/damianjude/about/</loc>
+    <lastmod>2026-01-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://damianjude.github.io/damianjude/</loc>
+    <lastmod>2026-01-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://damianjude.github.io/damianjude/tags/embedded-systems/</loc>
+    <lastmod>2026-01-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://damianjude.github.io/damianjude/tags/openwrt/</loc>
+    <lastmod>2026-01-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://damianjude.github.io/damianjude/posts/</loc>
+    <lastmod>2026-01-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://damianjude.github.io/damianjude/tags/reverse-engineering/</loc>
+    <lastmod>2026-01-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://damianjude.github.io/damianjude/tags/router/</loc>
+    <lastmod>2026-01-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://damianjude.github.io/damianjude/tags/</loc>
+    <lastmod>2026-01-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://damianjude.github.io/damianjude/posts/installing-openwrt-on-a-locked-isp-router/</loc>
+    <lastmod>2026-01-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://damianjude.github.io/damianjude/categories/</loc>
+  </url>
+</urlset>

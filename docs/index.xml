@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>damianjude</title>
+    <link>https://damianjude.github.io/damianjude/</link>
+    <description>Recent content on damianjude</description>
+    <generator>Hugo -- 0.154.2</generator>
+    <language>en-uk</language>
+    <lastBuildDate>Mon, 12 Jan 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://damianjude.github.io/damianjude/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>https://damianjude.github.io/damianjude/about/</link>
+      <pubDate>Mon, 12 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://damianjude.github.io/damianjude/about/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Trying to Install OpenWrt on My ISP’s Locked-Down WiFi Router</title>
+      <link>https://damianjude.github.io/damianjude/posts/installing-openwrt-on-a-locked-isp-router/</link>
+      <pubDate>Mon, 12 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://damianjude.github.io/damianjude/posts/installing-openwrt-on-a-locked-isp-router/</guid>
+      <description>&lt;p&gt;&lt;img alt=&#34;UART output of the router booting&#34; loading=&#34;lazy&#34; src=&#34;https://damianjude.github.io/damianjude/posts/installing-openwrt-on-a-locked-isp-router/0006.avif&#34;&gt;&lt;/p&gt;
+&lt;p style=&#34;text-align:center;&#34;&gt;
+  UART output of the router booting
+&lt;/p&gt;
+&lt;p&gt;Recently, I&amp;rsquo;ve been getting more into reverse-engineering, especially into embedded systems. So I decided to make my ISP&amp;rsquo;s WiFi router (which I won&amp;rsquo;t be naming for obvious reasons) the subject. I am a strong proponent of free software, and decided that it&amp;rsquo;s time I break free of the locked-down firmware imposed by my ISP. My original goal was to replace the OS on it with OpenWrt.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
