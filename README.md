@@ -1,9 +1,5 @@
 # Hi, I'm Damian 👋
 
-I'm a Software and Systems Engineer with an interest in infrastructure, networking, developer tooling, and systems programming.
-
-I'm currently a Systems Developer at **IRIS NITK**, where I help maintain and improve the production infrastructure behind NITK's HRMS, working on infrastructure automation, security hardening, load balancing, and observability.
-
 I enjoy understanding how systems work internally and building tools around that understanding, especially the kind of tools and systems that quietly become dependable infrastructure for the people who use them.
 
 
